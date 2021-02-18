@@ -15,7 +15,7 @@ Feel free to delete them when you are done.
 Please add a link to the issue you are implementing.
 If there is no issue reported yet, we would kindly ask you
 to report it first, so that we can keep track of it
-and undertsand it better.
+and understand it better.
 -->
 
 **Summary**
