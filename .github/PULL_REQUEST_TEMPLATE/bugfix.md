@@ -1,12 +1,3 @@
----
-name: Bugfix
-about: Fix a bug to help us improve
-title: "[BUG] The issue in short"
-labels: bug
-assignees: judit-nahaj, szikszail
-
----
-
 <!-- 
 Hello!
 Thank you, for helping us to make GherKing better!
