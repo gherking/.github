@@ -16,13 +16,13 @@ Note: such parts of the ticket which are in HTML comments (like this)
 won't be shown on the ticket, so we used them to guide you.
 Feel free to delete them when you are done.
 -->
-**Summary/Question**
+## Summary/Question
 <!-- Share your question here -->
 
-**Details**
+### Details
 <!-- If more details need to be provided, e.g. logs, place it here -->
 
-**Impact/Urgency**
+## Impact/Urgency
 <!--
 Please share what is the impact or urgency of this question,
 e.g. "I am working on this for the last 3 days and cannot solve it".

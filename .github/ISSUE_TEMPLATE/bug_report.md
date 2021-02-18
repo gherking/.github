@@ -19,10 +19,10 @@ won't be shown on the ticket, so we used them to guide you.
 Feel free to delete them when you are done.
 -->
 
-**Summary**
+## Summary
 <!-- A clear and concise description of what the bug is. -->
 
-**Steps to Reproduce**
+## Steps to Reproduce
 <!-- 
 Please provide the steps to reproduce the behavior:
 1. Have "this" feature file
@@ -30,18 +30,18 @@ Please provide the steps to reproduce the behavior:
 3. Check the output
 -->
 
-**Expected behavior**
+### Expected behavior**
 <!-- A clear and concise description of what you expected to happen. -->
 
-**Actual behavior**
+### Actual behavior**
 <!-- A clear and concise description of what is happened. -->
 
-**Logs**
+## Logs
 <!--
 If applicable, add logs to help investigate your problem.
 Please use the DEBUG=gherking:* environment variable so that
 the packages produce more info and attach the log file.
 -->
 
-**Additional context**
+## Additional context
 <!-- Add any other context about the problem here. -->

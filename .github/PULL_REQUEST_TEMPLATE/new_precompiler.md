@@ -10,7 +10,8 @@ won't be shown on the ticket, so we used them to guide you.
 Feel free to delete them when you are done.
 -->
 
-**Issue**: [gherking/repository#number](url)
+## Issue
+[gherking/repository#number](url)
 <!--
 Please add a link to the issue of the precompiler you are implementing.
 If there is no issue reported yet, we would kindly ask you
@@ -18,7 +19,7 @@ to report it first, so that we can keep track of it
 and understand it better.
 -->
 
-**Checklist**
+## Checklist
 <!--
 Please use this checklist to see what tasks would you need to do
 in scope of your implementation, in order to keep good code quality:

@@ -19,17 +19,17 @@ won't be shown on the ticket, so we used them to guide you.
 Feel free to delete them when you are done.
 -->
 
-**Summary**
+## Summary
 <!-- A clear and concise description of the proposed precompiler. -->
 
-**Use cases**
+## Use cases
 <!-- One or more use cases, when and how this precompiler would be helpful. -->
 
-**Example**
+## Example
 <!-- An example of what this precompiler would actually do (with feature files). -->
 
-**Options/Variants**
+## Options/Variants
 <!-- What other versions, behavior or configuration would this precompiler have? -->
 
-**Additional context**
+## Additional context
 <!-- Add any other context/info about the precompiler idea. -->

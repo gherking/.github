@@ -19,17 +19,17 @@ won't be shown on the ticket, so we used them to guide you.
 Feel free to delete them when you are done.
 -->
 
-**Summary**
+## Summary
 <!-- A clear and concise description of what the idea is. -->
 
-**Use cases**
+## Use cases
 <!-- One or more use cases, when and how this feature would be helpful. -->
 
-**Example**
+## Example
 <!-- An example of what this feature would result in. -->
 
-**Options/Variants**
+## Options/Variants
 <!-- What other versions, behavior or configuration would this feature have? -->
 
-**Additional context**
+## Additional context
 <!-- Add any other context/info about the idea. -->
