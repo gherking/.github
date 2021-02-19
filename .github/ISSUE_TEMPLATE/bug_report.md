@@ -26,7 +26,7 @@ Feel free to delete them when you are done.
 <!-- 
 Please provide the steps to reproduce the behavior:
 1. Have "this" feature file
-2. Execute gherking with "this" precompiled
+2. Execute gherking with "this" precompiler
 3. Check the output
 -->
 
