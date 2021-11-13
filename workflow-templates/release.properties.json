@@ -1,0 +1,5 @@
+{
+    "name": "Release",
+    "description": "This workflow publishes a new version of the package when a new release is published.",
+    "iconName": "release"
+}

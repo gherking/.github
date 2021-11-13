@@ -1,0 +1,5 @@
+{
+    "name": "CI branch build",
+    "description": "This workflow builds and tests the package on any feature, bugfix and hotfix branch, other than the main.",
+    "iconName": "ci"
+}

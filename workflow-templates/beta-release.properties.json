@@ -1,0 +1,5 @@
+{
+    "name": "Beta Release",
+    "description": "This workflow publishes a new beta version of the package when a new commit is added to a beta/* branch. It handles the version automatically: X.Y.Z-beta.N, where N is the build number.",
+    "iconName": "beta-release"
+}

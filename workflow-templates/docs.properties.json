@@ -1,0 +1,5 @@
+{
+    "name": "Github Pages TypeScript documentation build",
+    "description": "This workflow build the TypeScript documentation of the package and publishes it to Github Pages (from the main branch).",
+    "iconName": "docs"
+}

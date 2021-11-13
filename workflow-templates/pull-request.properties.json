@@ -1,0 +1,5 @@
+{
+    "name": "Pull request build",
+    "description": "This workflow builds and tests the package upon a pull request is created.",
+    "iconName": "pull-request"
+}
