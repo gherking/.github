@@ -23,7 +23,7 @@
 
 Do you have an idea for a cool precompiler? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=precompiler-request.md&title=%5BGPC%5D+The+name+of+the+precompiler)
 
-* **Sorter** - to sort scenario/outline based on certain conditions (https://github.com/gherking/gherking/issues/52)
+* **Sorter** - to sort scenario/outline based on certain conditions (#52)
 * **Filter** - to filter scenario/outline based on tags/outher conditions (https://github.com/gherking/gherking/issues/40)
 * **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization (https://github.com/gherking/gherking/issues/44)
 * **Suite Generator** - to sort feature files and scenarios/outlines in separate files, based on suite-tags (https://github.com/gherking/gherking/issues/45)
