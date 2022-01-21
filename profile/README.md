@@ -4,7 +4,7 @@
 
 ### What can you do with **GherKing**?
 
-* You can use the [gherkin-ast](https://github.com/gherking/gherkin-ast) package to build and work with feature files in your code, using an **AST**.
+* You can use the ![gherkin-ast](https://img.shields.io/npm/dm/gherkin-ast?label=gherkin-ast&style=flat-square) ([gherkin-ast](https://github.com/gherking/gherkin-ast)) package to build and work with feature files in your code, using an **AST**.
 * You can load feature files to AST and save them back using the [gherkin-io](https://github.com/gherking/gherkin-io) package; and the [gherkin-formatter](https://github.com/gherking/gherkin-formatter) to make them pretty.
 * You can use the [gherking](https://github.com/gherking/gherking) CLI tool (and the precompilers below) to build a precompiler for your feature files, adding more logic and **magic 🌈** to your feature files.
 
