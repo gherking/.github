@@ -6,8 +6,7 @@ name: CI
 on:
   push:
     branches:
-      - main
-      - master
+      - $default-branch
       - 'feature/**'
       - 'bugfix/**'
       - 'hotfix/**'
