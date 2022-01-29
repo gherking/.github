@@ -13,7 +13,7 @@
 *As we are currently in progress of releaseing the new GherKing, you can find the status of the GPC releases below as well.*
 
 * **For Loop** (✔ v1.0.0 released) - [gpc-for-loop](https://github.com/gherking/gpc-for-loop)<!-- @6ai --> - to loop scenarios and scenario outlines in order to repeat them.
-* **Macro** (⏳ v1.0.0 to be released) - [gpc-macro](https://github.com/gherking/gpc-macro)<!-- @moni --> - to create and execute macros.
+* **Macro** (✔ v1.0.0 released) - [gpc-macro](https://github.com/gherking/gpc-macro)<!-- @moni --> - to create and execute macros.
 * **Remove Duplicates** (✔ v1.0.0 released) - [gpc-remove-duplicates](https://github.com/gherking/gpc-remove-duplicates)<!-- @6ai --> - to remove duplicated tags or example data table rows.
 * **Replacer** (⏳ v1.0.0 to be released) - [gpc-replacer](https://github.com/gherking/gpc-replacer)<!-- @gula --> - to replace keywords in the feature files.
 * **Scenario Numbering** (⏳ v1.0.0 to be released) - [gpc-scenario-numbering](https://github.com/gherking/gpc-scenario-numbering)<!-- @balazs --> - to add an index to all scenario and scenario outline's name.
