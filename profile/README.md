@@ -2,6 +2,8 @@
 
 **GherKing** is a tool to make Gherkin smarter! It allows you to handle Cucumber/Gherkin feature files programmatically, in your JavaScript/TypeScript code.
 
+*As we are currently releaseing the new GherKing and the precompilers (`gpc-*` packages), you can find the status of each package next to it.*
+
 ## What can you do with **GherKing**?
 
 * You can use the [gherkin-ast](https://github.com/gherking/gherkin-ast) (✔ v3.2.1 released) package to build and work with feature files in your code, using an **AST**.
@@ -9,8 +11,6 @@
 * You can use the [gherking](https://github.com/gherking/gherking) (✔ v2.0.0 released) CLI tool (and the precompilers below) to build a precompiler for your feature files, adding more logic and **magic 🌈** to your feature files.
 
 ## Our precompilers
-
-*As we are currently in progress of releaseing the new GherKing, you can find the status of the GPC releases below as well.*
 
 * **For Loop** - [gpc-for-loop](https://github.com/gherking/gpc-for-loop) (✔ v1.0.0 released)<!-- @6ai --> - to loop scenarios and scenario outlines in order to repeat them.
 * **Macro** - [gpc-macro](https://github.com/gherking/gpc-macro) (✔ v1.0.0 released)<!-- @moni --> - to create and execute macros.
