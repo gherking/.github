@@ -16,8 +16,8 @@
 * **Macro** - [gpc-macro](https://github.com/gherking/gpc-macro) (✔ v1.0.0 released)<!-- @moni --> - to create and execute macros.
 * **Remove Duplicates** - [gpc-remove-duplicates](https://github.com/gherking/gpc-remove-duplicates) (✔ v1.0.0 released)<!-- @6ai --> - to remove duplicated tags or example data table rows.
 * **Replacer** - [gpc-replacer](https://github.com/gherking/gpc-replacer) (⏳ v1.0.0 to be released)<!-- @gula --> - to replace keywords in the feature files.
-* **Scenario Numbering** - [gpc-scenario-numbering](https://github.com/gherking/gpc-scenario-numbering) (⏳ v1.0.0 to be released)<!-- @balazs --> - to add an index to all scenario and scenario outline's name.
-* **Scenario Outline Expander** - [gpc-scenario-outline-expander](https://github.com/gherking/gpc-scenario-outline-expander) (⏳ v1.0.0 to be released)<!-- @balazs --> - to expand the Scenario Outlines to actual scenarios.
+* **Scenario Numbering** - [gpc-scenario-numbering](https://github.com/gherking/gpc-scenario-numbering) (✔ v1.0.0 released)<!-- @balazs --> - to add an index to all scenario and scenario outline's name.
+* **Scenario Outline Expander** - [gpc-scenario-outline-expander](https://github.com/gherking/gpc-scenario-outline-expander) (✔ v1.0.0 released)<!-- @balazs --> - to expand the Scenario Outlines to actual scenarios.
 * **Scenario Outline Numbering** - [gpc-scenario-outline-numbering](https://github.com/gherking/gpc-scenario-outline-numbering) (⏳ v1.0.0 to be released)<!-- @juci --> - to make all scenario, generated from scenario outlines unique.
 * **Step Group** - [gpc-step-groups](https://github.com/gherking/gpc-step-groups) (⏳ v1.0.0 to be released)<!-- @juci --> - to correct the gherkin keywords of steps to make the tests more readable.
 
