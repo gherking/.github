@@ -18,7 +18,7 @@
 * **Replacer** - [gpc-replacer](https://github.com/gherking/gpc-replacer) (✔ v1.0.0 released)<!-- @gula --> - to replace keywords in the feature files.
 * **Scenario Numbering** - [gpc-scenario-numbering](https://github.com/gherking/gpc-scenario-numbering) (✔ v1.0.1 released)<!-- @balazs --> - to add an index to all scenario and scenario outline's name.
 * **Scenario Outline Expander** - [gpc-scenario-outline-expander](https://github.com/gherking/gpc-scenario-outline-expander) (✔ v1.0.0 released)<!-- @balazs --> - to expand the Scenario Outlines to actual scenarios.
-* **Scenario Outline Numbering** - [gpc-scenario-outline-numbering](https://github.com/gherking/gpc-scenario-outline-numbering) (⏳ v1.0.0 to be released)<!-- @juci --> - to make all scenario, generated from scenario outlines unique.
+* **Scenario Outline Numbering** - [gpc-scenario-outline-numbering](https://github.com/gherking/gpc-scenario-outline-numbering) (✔ v1.0.1 released)<!-- @juci --> - to make all scenario, generated from scenario outlines unique.
 * **Step Group** - [gpc-step-groups](https://github.com/gherking/gpc-step-groups) (✔ v1.0.0 released)<!-- @juci --> - to correct the gherkin keywords of steps to make the tests more readable.
 
 ## Precompilers we plan
