@@ -2,8 +2,6 @@
 
 **GherKing** is a tool to make Gherkin smarter! It allows you to handle Cucumber/Gherkin feature files programmatically, in your JavaScript/TypeScript code.
 
-*As we are currently releaseing the new GherKing and the precompilers (`gpc-*` packages), you can find the status of each package next to it.*
-
 ## What can you do with **GherKing**?
 
 * You can use the [gherkin-ast](https://github.com/gherking/gherkin-ast) (✔ v3.2.1 released) package to build and work with feature files in your code, using an **AST**.
