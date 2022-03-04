@@ -21,8 +21,9 @@
 
 ## Precompilers we plan
 
-* **Sorter** - to sort scenario/outline based on certain conditions ([#52](https://github.com/gherking/gherking/issues/52))
 * **Filter** - to filter scenario/outline based on tags/outher conditions ([#40](https://github.com/gherking/gherking/issues/40))
+* **Remove Comments** - to remove all or particular type of semantic comments from the feature file ([#58](https://github.com/gherking/gherking/issues/58))
+* **Sorter** - to sort scenario/outline based on certain conditions ([#52](https://github.com/gherking/gherking/issues/52))
 * **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization ([#44](https://github.com/gherking/gherking/issues/44))
 * **Suite Generator** - to sort feature files and scenarios/outlines in separate files, based on suite-tags ([#45](https://github.com/gherking/gherking/issues/45))
 * **Example Sampler** - to chose a given number of random example ([#37](https://github.com/gherking/gherking/issues/37))
