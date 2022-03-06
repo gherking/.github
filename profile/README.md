@@ -18,10 +18,10 @@
 * **Scenario Outline Expander** - [gpc-scenario-outline-expander](https://github.com/gherking/gpc-scenario-outline-expander) - to expand the Scenario Outlines to actual scenarios.
 * **Scenario Outline Numbering** - [gpc-scenario-outline-numbering](https://github.com/gherking/gpc-scenario-outline-numbering) - to make all scenario, generated from scenario outlines unique.
 * **Step Group** - [gpc-step-groups](https://github.com/gherking/gpc-step-groups) - to correct the gherkin keywords of steps to make the tests more readable.
+* **Filter** - [gpc-filter](https://github.com/gherking/gpc-filter) - to include or exclude scenario/outline of a resulting feature file based on cucumber-tag-expression
 
 ## Precompilers we plan
 
-* **Filter** - to filter scenario/outline based on tags/outher conditions ([#40](https://github.com/gherking/gherking/issues/40))
 * **Remove Comments** - to remove all or particular type of semantic comments from the feature file ([#58](https://github.com/gherking/gherking/issues/58))
 * **Sorter** - to sort scenario/outline based on certain conditions ([#52](https://github.com/gherking/gherking/issues/52))
 * **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization ([#44](https://github.com/gherking/gherking/issues/44))
