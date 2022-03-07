@@ -10,6 +10,7 @@
 
 ## Our precompilers
 
+* **Filter** - [gpc-filter](https://github.com/gherking/gpc-filter) - to include or exclude scenario/outline of a resulting feature file based on a cucumber-tag-expression.
 * **For Loop** - [gpc-for-loop](https://github.com/gherking/gpc-for-loop) - to loop scenarios and scenario outlines in order to repeat them.
 * **Macro** - [gpc-macro](https://github.com/gherking/gpc-macro) - to create and execute macros.
 * **Remove Duplicates** - [gpc-remove-duplicates](https://github.com/gherking/gpc-remove-duplicates) - to remove duplicated tags or example data table rows.
@@ -18,7 +19,6 @@
 * **Scenario Outline Expander** - [gpc-scenario-outline-expander](https://github.com/gherking/gpc-scenario-outline-expander) - to expand the Scenario Outlines to actual scenarios.
 * **Scenario Outline Numbering** - [gpc-scenario-outline-numbering](https://github.com/gherking/gpc-scenario-outline-numbering) - to make all scenario, generated from scenario outlines unique.
 * **Step Group** - [gpc-step-groups](https://github.com/gherking/gpc-step-groups) - to correct the gherkin keywords of steps to make the tests more readable.
-* **Filter** - [gpc-filter](https://github.com/gherking/gpc-filter) - to include or exclude scenario/outline of a resulting feature file based on cucumber-tag-expression
 
 ## Precompilers we plan
 
