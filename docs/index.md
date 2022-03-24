@@ -1,3 +1,5 @@
+<!--
+
 # Hi there 👋
 
 **GherKing** is a tool to make Gherkin smarter! It allows you to handle Cucumber/Gherkin feature files programmatically, in your JavaScript/TypeScript code.
@@ -41,3 +43,5 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 * Adding support for **comments** ([#58](https://github.com/gherking/gherking/issues/58))
 
 Do you have an idea for any new feature? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=feature-request.md&title=%5BIMPR%5D+A+short+description%2Fname+of+the+new+feature)
+-->
+{% include_relative ../profile/README.md %}
