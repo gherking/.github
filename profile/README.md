@@ -1,4 +1,4 @@
-> 🌟 NEWS!!! 🌟
+> ## 🌟 NEWS!!! 🌟
 >
 > We recently released the following improvements:
 > * **gherking/Async Precompilers** (gherking@2.2.0) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
