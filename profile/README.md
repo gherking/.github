@@ -1,8 +1,8 @@
 > 🌟 NEWS!!! 🌟
 >
 > We recently released the following improvements:
-> * **gherking/Async Precompilers** (in progress) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
-> * **gpc-test-data/load_http** (in progress) - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
+> * **gherking/Async Precompilers** (gherking@2.2.0) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
+> * **gpc-test-data/load_http** (gpc-test-data@1.1.0) - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
 
 # Hi there 👋
 
