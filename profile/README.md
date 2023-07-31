@@ -45,7 +45,7 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 ## Upcoming features
 
 * **gherking/jumpstart command** (in progress) - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
-* **gpc-replacer/built-in tokens** - to add the possibility to use UUID and much more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
+* **gpc-replacer/built-in tokens** - to add the possibility to use UUID much more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
 * **gherking/Controlling precompiler application** - to control which precompiler is applied to a given feature file or which is not ([gherking#73](https://github.com/gherking/gherking/issues/73))
 
 Do you have an idea for any new features? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=feature-request.md&title=%5BIMPR%5D+A+short+description%2Fname+of+the+new+feature)
