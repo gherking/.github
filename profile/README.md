@@ -47,6 +47,7 @@ Thank you for being a part of the GherKing family and helping us grow and thrive
 
 ## Precompilers we plan
 
+* **Conditional Steps** - to allow skipping steps based on certain conditions (examples table columns) ([gherking#86](https://github.com/gherking/gherking/issues/86))
 * **Copy** - to copy feature files and distribute them based on some logic (e.g., to different folders, based on a tag) ([gherking#39](https://github.com/gherking/gherking/issues/39))
 * **Example Sampler** - to chose a given number of random example ([gherking#37](https://github.com/gherking/gherking/issues/37))
 * **Sorter** - to sort scenario/outline based on certain conditions ([gherking#52](https://github.com/gherking/gherking/issues/52))
